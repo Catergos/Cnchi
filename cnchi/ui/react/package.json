@@ -33,7 +33,7 @@
     "file-loader": "^0.11.1",
     "html-webpack-plugin": "^2.28.0",
     "json-loader": "0.5.4",
-    "node-sass": "^3.13.0",
+    "node-sass": "^4.13.1",
     "po-catalog-loader": "1.2.0",
     "react-addons-perf": "^15.4.2",
     "react-addons-test-utils": "^15.5.1",
